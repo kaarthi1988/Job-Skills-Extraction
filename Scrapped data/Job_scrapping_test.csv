@@ -1,0 +1,860 @@
+Job Title,Company,Location,Salary,Description,Link
+Senior AIOps Engineer,Health Data Analytics Institute,"3 Allied Drive, Dedham, MA 02026","$150,546 - $175,367 a year -  Full-time","Profile insightsFind out how your skills align with the job descriptionSkillsDo you have experience in Test-driven development?YesNoEducationDo you have a Bachelor's degree?YesNo&nbsp;Job detailsHere’s how the job details align with your profile.Pay$150,546 - $175,367 a yearJob typeFull-timeShift and schedule8 hour shift&nbsp;Location3 Allied Drive, Dedham, MA 02026&nbsp;BenefitsPulled from the full job description401(k)401(k) matchingDental insuranceFlexible spending accountHealth insurancePaid time offStock optionsShow morechevron down&nbsp;Full job descriptionSr. AIOps Engineer
+About us
+Health Data Analytics Institute (HDAI) is a care optimization, decision support and provider enablement company powered by big data, AI-driven analytics, expert insights, and point of care technology solutions to facilitate improved patient outcomes and greater efficiency. HDAI collaborates with leading health systems, value-based care organizations, physician groups, and payers to improve care delivery, population health and reduce cost and make efficient use of scarce clinical resources.
+Job description
+We are looking for an AIOps/MLOps Engineer to join our team at HDAI. This team owns our inference pipeline (deployment, CI/CD, monitoring), common tooling to bridge the gap between R&D and production, and an API layer to return inference results. In this role, you will be creating new pipeline components to deliver near real-time inference results, both with in-house models and LLMs, at a national scale. This role comes at a key turning point in our product development: We are transitioning from a legacy application to a Python-based, AWS-native, event driven architecture (you should be familiar with Lambdas, ECS, SQS, and S3, or similar technologies). Maintaining rigorous standards of quality assurance and code development are a core competency of this position – we pride ourselves on delivering model results to clinicians that they can trust. At HDAI, we nurture a culture of continually improving, and one of the best assets of our engineers is a love for learning. We hope that you too share this goal. A successful candidate will demonstrate strong attention to detail, clear communication, and effective follow-through. We are excited to have you as a part of this team!
+Job responsibilities
+
+Contribute to the development of our new inference pipeline, model deployment pipeline, and model registry
+Participate in the development of a new the API layer between post-process + post-inference data and the frontend application
+Participate with test-driven development by writing unit and integration tests for your code
+Maintain software using agile best practices, document and fix bugs, update release notes, update documentation, and address backlog items on a regular basis
+Contribute to a collaborative work environment with peers across many teams
+
+Qualifications
+
+5+ years of working experience in either a data science role, as a machine learning engineer, or as an MLOps engineer with a background in mathematics or equivalent field of study
+Familiarity with developing for cloud platforms (AWS, Azure, GCP) and Docker
+Experience with AWS Lambdas, ECS, SQS, S3, as well as Terraform are a plus
+Proficient in implementing event-driven architectures composed of stateless services
+Extensive software development experience in Python or similar languages
+Applicants must possess a strong ability to diagnose and resolve complex software issues through effective debugging techniques
+Familiarity with RESTful APIs
+Comfortable working with Git and working on a team using agile/scrum
+Excellent interpersonal skills with demonstrated ability to effectively communicate with internal and external teams; ability to develop trust, cooperation, and mutual respect
+
+Preferred education
+Bachelor’s Degree in Computer Science or equivalent
+EO statement
+HDAI is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+Job Type: Full-time
+Pay: $150,546.00 - $175,367.00 per year
+Benefits:
+
+401(k)
+401(k) matching
+Dental insurance
+Flexible spending account
+Health insurance
+Paid time off
+Tuition reimbursement
+Vision insurance
+
+Compensation Package:
+
+Bonus opportunities
+Stock options
+
+Schedule:
+
+8 hour shift
+
+Experience:
+
+Machine learning: 5 years (Required)
+AWS Lambda: 5 years (Required)
+python: 5 years (Required)
+ETL data pipelines: 5 years (Required)
+Cloud computing (AWS,GCP,Azure): 5 years (Required)
+
+Ability to Commute:
+
+Dedham, MA 02026 (Required)
+
+Work Location: Hybrid remote in Dedham, MA 02026&nbsp;",https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BCiN5p_k29LybVLB04mYa_egsHTCPsjUODsZMgeNdy5K9H95vVCIyOXh1M_2Aizzn2K5jKkdhnqN5b3Q-3RrLw8aLnMRBxc6VFgQJeu-06ZzdlvpH_nqQuDnJixmZDEFpjHGJjHkaG_hLfguXbO0ahJXrmgSUL7RQby0KvDzpiVGWKl13MCRO6TQa4i4DTW1VD8AEMRhre8rwy70aMkKuA8uAlZvHuVE7kr4c2zjxGuNqw8S2d45gCl7i01jSc0o4QK1eos8WoSnjC1Oup0-VoERDam59lZYXlD0LLRy-KwJ1yKnEmMIGQ4X7Jb7qqlxkz8bdNCwsg_NiodSulB5M8BsnrbX6Ve04jD5L9qXfWjxisPi8a_XOOMwa3I23uIMiak63CG1hXVkBvztmKesaPxRqgig-TYMhXEOy-hb2g7UHOACme0NovpIU2FcsMtTCu_i2GDBQjYW2GSHOlug4sEnKAkaSgFy32fXU2KqPrScoY_cQDTzS26XTSxDpavCfd_hWKPEvVdkJqDm-e3-nK2bAhwsyzmcvJT20bAaU8Fo_m_-Fjwpwqs1RlS1Lb4TDpItzBNWq6sieGxUi_QF9WkDs7aiwlSUKSTZMtsBn5XyrPwyLb_OHE7JFwhOu_kxhlOrIiCBmQlxjQBLdAmEKG&xkcb=SoD26_M378XDCf2M3h0LbzkdCdPP&camk=4HOcmqOLYrAYos-UPE48hQ==&p=0&fvj=1&vjs=3
+"Manager, Product Performance Analytics and Optimization - Cross Carline",Hyundai Motor America,"Fountain Valley, CA 92708","$86,800 - $124,000 a year","Profile insightsFind out how your skills align with the job descriptionSkillsDo you have experience in Tableau?YesNoEducationDo you have a Master's degree?YesNo&nbsp;Job detailsHere’s how the job details align with your profile.Pay$86,800 - $124,000 a year&nbsp;BenefitsPulled from the full job description401(k) matchingDental insuranceDisability insuranceEmployee assistance programHealth insuranceLife insurancePaid holidaysShow morechevron down&nbsp;Full job description
+
+Manager, Product Performance Analytics and Optimization - Cross Carline
+
+
+
+
+Date: Sep 21, 2024
+Location: Fountain Valley, CA, US, 92708
+Company: Hyundai Motor America
+
+At Hyundai, we’ve rethought our business and created cars that combine performance, quality, design and innovation into a complete package.  It’s time you rethink what you expect from an employer.  At Hyundai, we understand you're not just building a career – you're building a life. We believe in our people and realize that our success is a direct result of our commitment in offering you great opportunities for your career. If you would enjoy working in a dynamic environment and are looking for a chance to become part of a stellar team of professionals, we invite you to apply online today.
+
+
+
+
+ Location
+
+
+
+      Fountain Valley, CA
+     
+
+
+
+
+ Purpose
+
+
+The department’s key mission is to achieve revenue, share objectives, and provide strategic direction on strategies that optimize sales and profitability.
+
+This role will support the following:
+
+Enhance the speed of data analytics across all carlines to optimize business performance.
+Support the creation of all reporting.
+Led the creation of all ad hoc studies/presentations for senior management.
+
+
+
+
+
+Major Responsibilities
+
+
+
+Elevate department big data analytics and data visualization capabilities.
+Elevate templates to ensure the most relevant topics are prioritized.
+Support cross-carline activities across all 3 vehicle teams (Car/Entry CUV, SUV, and EV).
+Meet with vehicle teams to understand needs and develop new tools/dashboards to improve the speed and quality of data analysis.
+Develop and manage data flow to and from Regional Field teams.
+
+
+
+
+
+Major Responsibilities (continued)
+
+
+
+Proactively analyze data relative to performance objectives, develop actionable recommendations to optimize performance, and present to department/executive management.
+Support the development of new methods for pulling together data from multiple data sources.
+Collaborate with all departments for annual Business Plan development objectives and quarterly reporting.
+Support evolving EV space with new techniques.
+
+
+
+
+
+Authority
+
+
+
+Develop business case for performance improvement recommendations.
+Manage cross-functional teams and projects.
+
+
+
+
+
+Education
+
+
+
+      ~ Bachelor’s degree required.
+     
+
+      ~ Master’s degree a plus
+     
+
+
+
+
+ Related Experience
+
+
+
+Six or more years of professional experience at a manufacturer or distributor of consumer products with direct data analysis responsibilities.
+Extensive data analysis experience and data visualization expertise are required.
+Automotive industry experience preferred.
+
+
+
+
+
+Skills/Knowledge
+
+
+
+Develop a compelling point of view, and persuasively make a case for change leading to action.
+Strong automotive industry and technology knowledge preferred.
+Experience with business intelligence software like Tableau and database management with SQL.
+Experience with statistical programming in Python or R preferred.
+
+
+
+
+
+Certification
+
+
+
+N/A.
+
+
+
+
+
+Physical Requirements
+
+
+
+      Normal office duties
+     
+
+
+
+
+ Work Model
+
+
+
+      #LI-Hybrid (60% Onsite/40% Remote)
+     
+
+
+
+
+ Affiliate
+
+
+
+      #Hyundai
+     
+
+
+
+
+ Compensation
+
+
+
+      $86,800.00 - $124,000.00 Annual
+     
+
+
+
+
+ Benefits
+
+
+
+Monthly Hyundai/Genesis vehicle lease allowance (including insurance and maintenance)
+Holiday Pay - the company shuts down with pay between Christmas and New Years.
+Vacation and sick time off
+Healthcare insurance (medical, dental, and vision)
+401(K) company match
+Additional 401(K) Employer Enhanced Contribution program – eligible after 1 year of employment, in addition to the regular employer matching contribution
+Basic life insurance, short- and long-term disability
+Mental health, wellbeing, and employee assistance program
+Health advocate (coordinate care and services, assistance with claim and billing issues, understanding Hyundai benefits)
+
+
+
+
+
+Our Company adheres to the equal employment opportunity guidelines set forth by federal, state and local laws. The information requested on this form is sought in good faith and will not be used to discriminate against the applicant based on race, religion or creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic characteristics, marital status, sex or gender (which includes pregnancy, childbirth, or related circumstances), gender identity, gender expression, age, citizenship, sexual orientation, family care or medical leave status, military and veteran status, political affiliation, or any other characteristic protected by federal, state and local laws.
+ Nearest Major Market: Orange County  Nearest Secondary Market: Los Angeles
+
+
+&nbsp;",https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CkoF6E1dqpJlXWnHaOEvtQvPlgYH5mKj_pbVdvcMnJ9g8rhhWrCkAw8ZJBYpeunjwXSxRcdqk87KD6a1fAaiW7rqSd4eqKjenxD_moDgVItG3I9NVk5vBTJHrOUEcvj4d2X7C26N7F4Y5qEC-pVEKJIP_bK_GMlTTP-nGNzbiN4cm57dOb2ZZ6WFMlei6v_6MdJl7oY1rSyt9T1IIqYfu3qB2dsY0kKDhxLuIkkZjsgsrOmg5ooqxsziMvtTdnatuJvkVQw1PKIXZ56SPCkBx1IGXk2XK6iTvhXYxoFzCzV3d2OOEPDcCSOg7m525cxrz_DDrjSnmB0CxsMRcAgkp_876nOzK4ENVbHpNfiDHDoVPNKzo09hclNz2LygIb4TR1ROhrUdYqGSu3SHvyXHs_6KaecN5yuMNCaIUmyXLiuc2x2kAHUQjms-Nsr9-cZy0FNlulTUpx6rgi0uYcFbUpn1CsCGe2oVZA5PQ7IIomINM57OfJVHbcArks5xW3_OcaHDFaMXdNyDgtzD876n4596qAJ2toz1yVbFAbRXpK65yoDTQ6aK3GIAS-uSXwWHE8aGYND-3yqaQWZlvg0O46YY2KbGrgxumWT96eSfQJY5pqAep9We8hqzP1XYBSXQUa1vOiszGOYPLkiiVAS50QU1pdM7HwmIJ8lVMWXTrl9rI8BhwiHPUewI5pS7jQ7sZA062kwU4338_L8sdX4ZE93QmocmVXizb6rJOci2VXGU-OngOXluOMvuWo8sAtWFKzz2kfkJ_C_rmf-01sG_-6Hcy6e9cF4SFpZgTUgxsoIWbkkwlCGDdehoAKtRAAyLGwUH0K2KRgyg==&xkcb=SoBC6_M378XDCf2M3h0KbzkdCdPP&camk=xqnMBGaf-K8m_kC27aczrw==&p=1&fvj=0&vjs=3
+Data Scientist,Gierd,"120 East Lake Street, Sandpoint, ID 83864","$115,000 - $150,000 a year -  Full-time","Profile insightsFind out how your skills align with the job descriptionSkillsDo you have experience in Tableau?YesNoEducationDo you have a Bachelor's degree?YesNo&nbsp;Job detailsHere’s how the job details align with your profile.Pay$115,000 - $150,000 a yearJob typeFull-time&nbsp;Full job descriptionJob Overview:
+We are seeking an experienced Data Scientist to join our team. The ideal candidate will be responsible for analyzing complex data sets to identify trends, insights, and patterns. This role involves designing and implementing data mining and machine learning algorithms to solve real-world problems. The successful candidate will have a strong background in data science and will be proficient in using AI, natural language processing, and model training techniques. The job requires a high level of technical expertise and a passion for data-driven decision-making.
+Responsibilities:
+- Design and implement data mining and machine learning algorithms to analyze large datasets.- Utilize AI and natural language processing to extract insights and patterns from data.- Develop and train models using techniques such as model training and model deployment.- Collaborate with cross-functional teams to integrate data science capabilities into business processes.- Develop and maintain data pipelines using tools like Java and Hadoop.- Stay up-to-date with the latest trends and advancements in data science and AI.- Work closely with data engineers to design and implement data processing architectures.- Analyze data to identify trends and insights that can drive business growth.- Develop data visualizations to communicate insights to stakeholders.- Provide data-driven recommendations to business leaders to drive strategic decision-making.
+Qualifications:
+- Bachelor's degree in Computer Science, Statistics, Mathematics, or a related field.- Strong background in data science, machine learning, and AI.- Experience with data mining, natural language processing, and model training.- Proficiency in programming languages such as Java and Python.- Experience with big data technologies like Hadoop and Spark.- Experience with cloud computing platforms such as AWS.- Familiarity with data visualization tools like Tableau and Power BI.- Strong analytical and problem-solving skills.- Excellent communication skills.- Experience with data governance and data quality control processes.- Strong passion for data-driven decision-making and staying up-to-date with the latest trends and advancements in data science.
+Job Type: Full-time
+Pay: $115,000.00 - $150,000.00 per year
+Experience:
+
+Data science: 3 years (Required)
+SQL: 3 years (Preferred)
+
+Ability to Commute:
+
+Sandpoint, ID 83864 (Required)
+
+Ability to Relocate:
+
+Sandpoint, ID 83864: Relocate before starting work (Required)
+
+Work Location: In person&nbsp;",https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Bic7YDS3DMahCUaOW4VIJi_BoIc3QLEXhShRtj0NVhMCs2T60QLBluum9GltN1111mgfBiyjJ9j0HHFyQyL6NkmM37JthFuyELJ7SXPMJOXlHj_9RrhcufVTBWt4oIqbv1krTLmTeXHB9PAev6VYqaHoeMxBlaOacnA5FtwA_e3VWp0j8LUfKqrxD5OG99_R3bjv5sE1D_8njwQ-_P7iiww69erIgBvvg15e_TmgtSYegbG0IaqJEJ1IAhOO1nWmai6fWUNp3RZbeURquP6Ji-bJjZAywi3jC58qFLA1Qjp9kc-HyjGq2P_gcON1EAI30KzsTbp5hZw2ODkzxYEKtLX1OLGVPAv7qS4stuKuuPQ31aZILTdVZRx5F3FnBXrB8ucPKu-b5l_VKfKVTU3mCC9tvx4peQjy8dUL1gn-bGEsTO4xPc-Sn5JK_6ZOxwNJshdO0ADbaz23DHe1qZ6iYQ98wXuJ9pz5yh-t0jGz1CItI81GF13-18_0b8WGAS__lRfB_7InYLQIHKAMMw0hwCweA49N844GUxwIVqQARkhfruXlPCbEHGn4mR8OBj3eMGTQJ56pV8HhqC9ToCT5K0KesZg0835RwhKqdLwYFIgXuLjjoUGrTAvjpNGxtB5vA945czASQuaw==&xkcb=SoDf6_M378XDCf2M3h0JbzkdCdPP&camk=nUmJqO2E8rjryq8-PQIxRw==&p=2&fvj=1&vjs=3
+Jr. Data Analyst - DOE/DoD Security Clearance Required,Techsource Inc,"Albuquerque, NM 87101","$85,000 - $105,000 a year -  Full-time","Profile insightsFind out how your skills align with the job descriptionLicensesDo you have a valid Secret Clearance license?YesNoSkillsDo you have experience in Tableau?YesNoEducationDo you have a Bachelor's degree?YesNo&nbsp;Job detailsHere’s how the job details align with your profile.Pay$85,000 - $105,000 a yearJob typeFull-time&nbsp;LocationAlbuquerque, NM 87101&nbsp;BenefitsPulled from the full job description401(k) matchingDental insuranceFlexible spending accountHealth insuranceHealth savings accountLife insurancePaid holidaysShow morechevron down&nbsp;Full job description
+Your Opportunity:
+As an analytics professional, you thrive on transforming data into actionable insights. If you’re eager to enhance your technical skills and solve problems, consider a role where you’ll decode complex data to tackle global challenges. Data analysts are essential in turning vast amounts of information into valuable solutions.
+
+On our team, you'll apply your analytical skills and communication prowess to create real-world impact. You’ll collaborate with a diverse group of experts in a dynamic environment, assisting Department of Defense clients like the U.S. Air Force with aircraft system testing and certification. Your role involves understanding client needs, analyzing data, conducting research, and delivering clear reports to support decision-making. You’ll guide analytical processes, develop algorithms, and use various tools to provide precise answers and insights.
+
+This is a hybrid work environment with 2-3 days onsite in Albuquerque, NM.
+
+ If you have not have a Department of Defense (DoD) Secret or the Department of Energy (DOE) L security clearance, you will not be considered.
+
+ What You Will Do: 
+
+Use your technical knowledge and analytical mindset to support client and stakeholder relationships.
+Research, develop, and test data methodologies, and generate cross-functional solutions through collection, interpretation, design of experiments, evaluation, and analysis of large data sets.
+Apply consulting skills and data analytics experience by simplifying technical requirements and trends, based on audience.
+Present data findings and recommendations to clients and stakeholders using your knowledge of databases, scripting languages such as SQL, R, Python, and Microsoft Office Suite.
+Establish quantitative and qualitative metrics and key performance indicators to drive technical outcomes.
+Apply data visualization through different formats such as graphs, tables, PowerPoint presentations, and Tableau Dashboards.
+Grow your communication and technical skills by merging consulting and big data to create data-centric solutions across the testing and evaluation industry.
+
+ What You Will Need: 
+
+An active Secret or Top Secret (TS) clearance - All candidates without a Department of Defense (DoD) Secret or the Department of Energy (DoE) L security clearance will be rejected security clearance will not be considered
+A bachelor’s degree in computer science, or a relevant field
+2+ years of experience with data exploration, data cleaning, data analysis, data visualization, or data mining
+2+ years of experience with communicating analysis both in written and verbal form.
+Experience writing analytical and technical reports and developing data visualizations to deliver key insights
+Comprehensive understanding of good data principles including data cleaning, preprocessing, and wrangling.
+Experience with a scripting language such as SQL, R, or Python to extract data and perform analytics and visualizations.
+Experience communicating and presenting analyses, with the ability to clearly convey complex data insights to non-technical stakeholders
+Ability to maintain accuracy while dealing with large data sets with a high attention to detail and quality
+An ability to work in a hybrid environment
+
+ Preferred
+
+An active Top Secret (TS) clearance - All candidates without a Department of Defense (DoD) Secret or the Department of Energy (DoE) L security clearance will be rejected security clearance will not be considered
+Understanding of descriptive statistics, including measures of central tendency and dispersion.
+Knowledge of probability distributions, both discrete and continuous.
+Familiarity with inferential statistics, including hypothesis testing and confidence intervals, and design of experiments.
+Experience with agile methodologies, such as Kanban and Scrum, and DevOps principles
+Familiarity with version control systems like Git
+Experience with electrical engineering data such as sensor data, signal processing, and system logs
+Experience with the 1553 bus system
+Experience in Developmental or Operational Test and Evaluation
+
+
+ Equal Employment Opportunity:
+At TechSource, we are dedicated to fostering an inclusive environment that celebrates diversity, recognizing that our differences drive innovation, growth, and better results for our customers. We value and respect individuals of all backgrounds, ensuring all feel empowered and valued. All qualified applicants will receive consideration for employment without regard to sex, race, color, religion, gender, age, mental or physical disability, medical condition, genetic information, national origin, ancestry, marital status, veteran status, sexual orientation, gender identity, or any other legally protected status as required by law.
+
+What We Offer:
+We know employee benefits are important to you. Therefore, we offer full-time employees an attractive suite of benefits including medical, dental, and vision insurance, generous paid time off, and superior paid holidays. Full-time employees also are eligible to contribute to a health savings account and flexible spending accounts, and TechSource provides full-time employees with paid life insurance benefit of 2x salary up to a maximum of $250,000. Furthermore, all employees are eligible to participate in our 401k plan, which TechSource enhances with a generous matching contribution.
+
+TechSource is a nationally recognized engineering consultancy specializing in the management and technical delivery of large-scale nuclear and high-technology projects. TechSource provides direct access to hundreds of experts and industry leaders in the nuclear sciences, non-proliferation technologies, accelerator physics, and systems engineering arenas. TechSource’s outstanding technical service has earned the company a client retention rate of over 95 percent. TechSource has been recognized as a Top Workplace by both The Washington Post and Albuquerque Journal. TechSource was named the Department of Energy’s Small Business of the Year in June of 2024.
+
+Job Type: Full-time
+Pay: $85,000.00 - $105,000.00 per year&nbsp;",https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AxmrNqIm2cJ81kM1p8o-emM7aiXeCuR7VPKwH3RNuaGtzBBijy5zvQplnzVPX7YkB5Q53PSR1i1RRwSrH0Sf15oj9VnW2uLWIQSI-_UbOk9PIyFRkleQpn59Cwax5ORQjJTdhOI2UJVsXKNTXmOsCSd9hXrx_aTgVUtUHkgmkYBRHxlhWvmJMTTr-de40UqevRO7avmp0eHSS9Wkuyix50P7MFcy5811hM15OPsY_GQV7T1QURiKvQ7zwPUTh_DxWjBM7qMgImgNTiFk0Dnzr8OpvFGkdaFaIao7JE9zbug8xcnbnHB9C2ngc8XSZsalWxu_1_5NK5J9duw4zM4xeOyDvoY1JA57tPSnjLYlk4XGeUCAp3xvMIjxMeyPC4Nl1EPeHRzCNeO9JV5QrTzGvU8awUk_dEuVabav1OaZzmbePLXX1CFWSii_DUWZectn2vP5Tq3C80zw-TVLMSLCaSUZNCHiuQf-TlqWZf65FGTSAY7qfiGo6Du8Scmq4vXtfRlDb9SQY1ZQBYI8CMx5Xqac39DA_M_Peue480UPkzNMMijpBKn9YLy4GUza-TeXrtzLB305ZtAf6djGBp-LW7TJfZXv0a7-1T1RAgHeM4U-_jtI4qD0UDQaWL8Jiz-Y19VIRV_U2oB5af1HM9YYvN&xkcb=SoBr6_M378XDCf2M3h0IbzkdCdPP&camk=nUmJqO2E8rhuuY2oLNrbtw==&p=3&fvj=0&vjs=3
+Data Analyst,Big Machine Distillery,"Big Machine Distillery in Nashville, TN 37212",Full-time,"Profile insightsFind out how your skills align with the job descriptionSkillsDo you have experience in Pivot tables?YesNoEducationDo you have a Bachelor's degree?YesNo&nbsp;Job detailsHere’s how the job details align with your profile.Job typeFull-timeShift and schedule8 hour shiftMonday to Friday&nbsp;LocationBig Machine Distillery in Nashville, TN 37212&nbsp;BenefitsPulled from the full job description401(k) matchingDental insuranceHealth insurancePaid holidaysPaid time offVision insurance&nbsp;Full job descriptionWho we are:
+Big Machine Distillery is a fast-growing premium spirit’s company with corporate offices located on Music Row. The sister company to Big Machine Label Group, Big Machine Distillery operates in a fast-paced, creative environment and serves as the hub for our multi-state sales team, our three tasting rooms located on 3rd Ave in downtown Nashville, on Bransford Ave in Berry Hill and our main distillery in Lynnville, TN. The Brand is growing nationally, leading to new and exciting ventures daily.
+Description:
+The Data Analyst will be responsible for analyzing and interpreting complex data sets to help our business make informed decisions. You’ll work closely with different departments to provide insights and recommendations that will impact our strategies and operations.
+This is an in-person position only. No remote positions.
+Responsibilities:
+
+Gather, clean, and analyze data from multiple internal and external sources.
+Use statistical tools and methods to identify trends, patterns, and insights in the data.
+Create reports, dashboards, and data visualizations to present findings to stakeholders.
+Collaborate with cross-functional teams to understand their data needs and provide
+actionable insights.
+Develop and track key performance indicators (KPIs) to measure the effectiveness of
+business strategies.
+Ensure data accuracy and integrity by performing data validation and cleaning
+processes.
+Support ad-hoc data requests and projects from different business units.
+Help in the development of predictive models and forecasts to inform future decisions.
+
+Qualifications:
+
+Familiarity with machine learning algorithms and frameworks.
+Experience working with large datasets or in a big data environment.
+
+Requirements:
+
+Bachelor’s degree in Data Science, Statistics, Mathematics, Computer Science, or related
+field.
+1+ years of experience in a data analysis or business intelligence role.
+Advanced knowledge of Microsoft Excel, including complex functions and pivot tables.
+Strong analytical and problem-solving skills.
+Excellent communication skills, with the ability to explain complex findings to non-
+technical stakeholders.
+Attention to detail and strong organizational skills.
+
+This is an in-person position only. No remote positions.
+Big Machine Distillery is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.
+Job Type: Full-time
+Benefits:
+
+401(k) matching
+Dental insurance
+Health insurance
+Paid holidays
+Paid time off
+Vision insurance
+
+Schedule:
+
+8 hour shift
+Monday to Friday
+
+Application Question(s):
+
+Do you already live in Nashville, TN?
+You are aware that this is an IN-PERSON position.
+You are aware that there is NO relocation assistance package.
+
+Education:
+
+Bachelor's (Required)
+
+Experience:
+
+Microsoft Excel: 3 years (Required)
+Data analysis skills: 3 years (Required)
+Organizational skills: 1 year (Required)
+
+Work Location: In person&nbsp;",https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B3EJneg5qDM0oun6GLcFyXx5gfsGarDe-RHEAPYzCIbLa3JM8ItAixC_A2bnwrtgYyERjkvYzTBXEAg2TD4gcTluJHug5wjsZ6UxTGNfgiNaqO1TckIyZGoGsgkIesKk94fuSYG6ZZfIs7-4J3A8ocAA5KDJUf6p9jV6ydvGlANs3szRPW1oC9MtXzPdaIK7rCkdOXgDrOETBhK9CuDO80VqGoHA9tMK0Sz2czl02XYc-0F7PJAfYQZTgWiFZB12pdicBWc81tKhl6xIUN6EKMBcWh4xBW7CxUZzbs4Hu_FXAdB3u94qcl7FhhA00CWqSKDwg9OfOLNxG7hp3OzGrQ0s2ua2AxDqLUMKa3kQlaNKd9Lyp6yyTxfppPHhcK0bf-MlrcrbfLuzOqkLbT9NTeA46oVGcTw0_L-L7ioOCQIngZ-1Uk2qi6hSJXjE3cT14pLDheMRFCE1ABOYFGNo3MO1yglgyEbVneLxogqxqXxskdC6CkhgKjnPBSjnywyGaAtnp76wZ7C7rMCucFyt3KUm3vte-bzdkynN_W6EiIFzAAKPRCSmzZWtdhA_-kpjzkl_oOgC-Zj2uY7tOAB0wCm0Xqcy8D67zEytJpg9v-R9LN_D1nGCs8nnFWchoqDSo=&xkcb=SoDl6_M378XDCf2M3h0PbzkdCdPP&camk=nUmJqO2E8rgjF50uz7yyrw==&p=4&fvj=1&vjs=3
+Hadoop/ Big Data Developer - Chicago,RV Soft,"300 East Randolph Street, Chicago, IL 60601",$50 - $54 an hour -  Contract,"Profile insightsFind out how your skills align with the job descriptionSkillsDo you have experience in Shell Scripting?YesNo&nbsp;Job detailsHere’s how the job details align with your profile.Pay$50 - $54 an hourJob typeContractShift and schedule8 hour shift&nbsp;BenefitsPulled from the full job description401(k)Dental insuranceHealth insurance&nbsp;Full job descriptionOverviewWe are seeking a skilled and motivated Hadoop Developer to join our dynamic team. The ideal candidate will have a strong background in big data technologies and a passion for developing robust data processing solutions. As a Hadoop Developer/ Big data Developer, you will be responsible for designing, implementing, and maintaining data pipelines that support our data warehouse and analytics initiatives.
+Skills- Bigdata/ Hadoop, Scala, Databricks, PYSPARK.
+- Excellent hands on experience in Shell Scripting and Control-M.
+- Excellent problem-solving skills and attention to detail.
+Join us in leveraging the power of big data to drive insights and innovation within our organization!
+Job Type: Contract
+Pay: $50.00 - $54.00 per hour
+Expected hours: 40 per week
+Benefits:
+
+401(k)
+Dental insurance
+Health insurance
+
+Schedule:
+
+8 hour shift
+
+Experience:
+
+Shell Scripting: 4 years (Required)
+Hadoop/ Bigdata: 5 years (Required)
+Control-M: 4 years (Required)
+Scala: 3 years (Required)
+
+Ability to Commute:
+
+Chicago, IL 60601 (Required)
+
+Ability to Relocate:
+
+Chicago, IL 60601: Relocate before starting work (Required)
+
+Work Location: In person&nbsp;",https://www.indeed.com/rc/clk?jk=34e2912102972452&bb=lAV9KnaaUJfqMj6UrHPAoZ7UcszzueBg15YPgAg0bHFqRZSEirM4skyZ42j6JlwjR8htIg2a4gz9GcyPnMottSaZCHWEM1Revgi_HD6ETpSavcshMXXfCp_GUuFEQktL&xkcb=SoCl67M378XDCf2M3h0ObzkdCdPP&fccid=acfd5f10706c2969&cmp=RV-Soft&ti=Hadoop+Developer&vjs=3
+Data Engineer III,SDV International,"5615 Columbia Pike, Falls Church, VA 22041","From $130,000 a year -  Full-time","Profile insightsFind out how your skills align with the job descriptionLicensesDo you have a valid Top Secret Clearance license?YesNoSkillsDo you have experience in ETL?YesNoEducationDo you have a Bachelor's degree?YesNo&nbsp;Job detailsHere’s how the job details align with your profile.PayFrom $130,000 a yearJob typeFull-timeShift and scheduleMonday to Friday&nbsp;Location5615 Columbia Pike, Falls Church, VA 22041&nbsp;BenefitsPulled from the full job description401(k)401(k) matchingDental insuranceHealth insuranceLife insurancePaid holidaysPaid time offShow morechevron down&nbsp;Full job descriptionPROGRAM OVERVIEW: 
+Be part of the movement to support national efforts against CBRN threats by leveraging data, analytics, AI, and automation. Collaborate with multi-intelligence and multi-domain systems to integrate critical data across various domains. Focus on data gathering, standardization, communication, and integration into a command data model. Enhance situational awareness and threat forecasting through predictive analytics, providing decision-makers with dynamic data access and visualizations to optimize response planning.
+Location: HQ CDAO: Greater DC area 2-3 days/week
+JOB RESPONSIBILITIES: 
+
+Configure and ingest structured, unstructured, and semi-structured data to meet mission partner requirements and support data analytics and DevOps pipelines.
+Maintain operational aspects of data transfers, ensuring security, system integrity, and environment health monitoring.
+Automate configuration management and stay updated on ETL technologies and services.
+Work independently under general guidance, identifying areas for automation, optimization, right-sizing, and cost reduction.
+Apply expertise in data engineering technologies, databases, Cloud architecture, and programmatic environment maintenance.
+Collaborate with multiple functional groups to understand client challenges, prototype new ideas, and implement innovative solutions.
+Design, implement, test, and deploy scalable and efficient coding solutions.
+
+MINIMUM REQUIRED EXPERIENCE: 
+
+7-10 years experience with Big Data systems & ETL processes
+Experience with Amazon Web Services (AWS), Microsoft Azure, or MilCloud 2.0
+Direct work and well versed in Artificial Intelligence (AI), AI systems
+Strong Communication: cross-organizational and diverse audiences
+Applying DoD Security Technical Implementation Guides (STIGs) and automating that process
+Experience with multiple coding languages
+Cloud Architecture SME
+Experience with Advana preferred
+
+MINIMUM QUALIFICATIONS: 
+
+Bachelors or Higher in Data Science, Statistics or related field
+Active TS Clearance/SCI
+Valid Passport
+Ability to commute to Falls Church 2-3 days per week
+Candidate must be a U.S. Citizen and be authorized to work for the Federal government
+
+Opportunity Contingent on Bid Award: Kindly note this opportunity is contingent upon a bid award, we are actively conducting thorough screenings and interviews to ensure a great fit for both you and our organization. Successful candidates will receive contingent offers based on mutual agreement, showing our commitment to moving forward together once we secure the work. We look forward to the possibility of welcoming you to our team .
+
+Tentative Start Date: December
+Federal Client: CDAO
+
+We offer competitive pay, full health benefits, 401K Employer Matching, Holiday, Paid Time Off and more. 
+SDV INTERNATIONAL is an essential business. The health and safety of our team members is our highest priority, so we are taking a science driven approach to slowly welcome and transition some of our workforce back to the office with many safety protocols in place. This may include periodic site visits for teleworkers. We continue to monitor and assess before we confirm the return of each wave, paying specific attention to geography-specific trends.
+Diversity creates a healthier atmosphere: SDV INTERNATIONAL is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.
+Job Type: Full-time
+Pay: From $130,000.00 per year
+Benefits:
+
+401(k)
+401(k) matching
+Dental insurance
+Health insurance
+Life insurance
+Paid time off
+Vision insurance
+
+Schedule:
+
+Monday to Friday
+
+Application Question(s):
+
+Are you a US Citizen AND authorized to work for the Federal Government?
+
+Education:
+
+Bachelor's (Required)
+
+Experience:
+
+Bid Data Processes: 7 years (Required)
+ELT Processes: 7 years (Required)
+Cloud Architecture: 5 years (Required)
+AWS, Microsoft Azure or MilCloud 2.0: 5 years (Required)
+coding (multiple languages): 5 years (Required)
+Advana: 2 years (Preferred)
+
+Security clearance:
+
+Top Secret (Required)
+
+Ability to Commute:
+
+Falls Church, VA 22041 (Required)
+
+Work Location: Hybrid remote in Falls Church, VA 22041&nbsp;",https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AWF7-BiMDVFreI2abE01Ndm8JcSCt18CaekNhvxcNkD4-c5urDE-RrlpnYttpKaRT8PwPkBcLyYK8_8rVTzNq5Hlxlg6XjFqNbaykpnOIRypXeqX6CcvmqjHRiMlsPCP9WrNU7H9dfAnvWs0jQKuTRMk3wJXkyzkUZveJegg_WgHdbrqtWpc6c8YnwHrJzNNUwvHIqtlyiYmn_PUXc2Q8SZJ3jWOmJJYh_taFx_IsmHy2uoq3mmV9HBoXJ3vxivf33HnQTgmDfZfCex8gYCS3Zk5h9WqOGaS6sKkqt77zcSarSvRKveWdFzPIVADnVYY4p5tkz-ugoOoCxT4YVzuubYIHQAkuYkMwjIzmlqD0CDwyO733Sg0YwhujbN1DyNd3klwZPoE1_-MIhGracl70nWlXeQJp2z1IKfgDGqeJRodq4LW3sP8uEwsiGsF8QMfEMl9KEjQ26o8tro3de5zc2kixpDryovvD_67FpOjhMvCox-4aA8CGUnTYo9TROhtrwJABzYgPhFN9-zJPVMZjBMAGlVUx-2Lu4Df5df2WFLuTeTsxHPhgMs-IJrjhR5tafrYQh5KC5_nvkaLtMIASz4HOxGQpneuJTtZQi-tPLAeilFlYCMwEIN0UMYj__JmE=&xkcb=SoDM6_M378XDCf2M3h0NbzkdCdPP&camk=nUmJqO2E8rjXrnqaOfsdtw==&p=6&fvj=1&vjs=3
+Data Engineer I,Amazon.com Services LLC,"Seattle, WA","$91,200 - $185,000 a year -  Full-time","Profile insightsFind out how your skills align with the job descriptionSkillsDo you have experience in Spark?YesNo&nbsp;Job detailsHere’s how the job details align with your profile.Pay$91,200 - $185,000 a yearJob typeFull-time&nbsp;Full job description
+1+ years of data engineering experience
+Experience with data modeling, warehousing and building ETL pipelines
+Experience with SQL
+Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
+Experience with one or more scripting language (e.g., Python, KornShell)
+ Recruiting the right candidates across all of Amazon is critical to our ability to innovate and build on behalf of our customers. The Data Engineer I role is an integral part of the team responsible for delivering accurate, secure, and timely recruiting data and metrics to our customers across Amazon.  The ideal candidate is passionate about data and analytics, with a strong foundation in data engineering. They are eager to learn and grow, and thrive in a dynamic, fast-paced environment. The Data Engineer I will work closely with the wider team to architect, develop, and maintain scalable data infrastructure and data pipelines.  Key job responsibilities 
+
+Design, implement, and support secure access to large datasets.
+Architect, develop, and maintain scalable data infrastructure and data pipelines.
+Extract, transform, and load data from a variety of sources using SQL, scripting, and AWS big data technologies.
+Design and implement ETL pipelines and BI solutions.
+Collaborate with business owners, developers, and BI Engineers to explore new data sources and deliver insights.
+Stay up to date with advancements in big data technologies and contribute to pilot projects.
+Proactively identify and resolve data-related issues, contributing to increased autonomy and productivity.
+Experience with big data technologies such as: Hadoop, Hive, Spark, EMR
+Experience with any ETL tool like, Informatica, ODI, SSIS, BODI, Datastage, etc.
+ Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.  Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $91,200/year in our lowest geographic market up to $185,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.&nbsp;",https://www.indeed.com/rc/clk?jk=5fcc0f4e642bb35c&bb=lAV9KnaaUJfqMj6UrHPAoQk2KvGk29pROXzgvvQIxIbDjXQwGAOzQnxIJZPysWlaaa6kvuJUAagcI6ENL7aw7Q7ES1E8l6r2gWJ1zYSoPP7aL4kJJYkuWA%3D%3D&xkcb=SoCM67M378XDCf2M3h0MbzkdCdPP&fccid=fe2d21eef233e94a&vjs=3
+GCP Data Engineer,Umanist Staffing,"Dallas, TX",$49 - $57 an hour -  Contract,"Profile insightsFind out how your skills align with the job descriptionSkillsDo you have experience in Spark?YesNoEducationDo you have a Master's degree?YesNo&nbsp;Job detailsHere’s how the job details align with your profile.Pay$49 - $57 an hourJob typeContract&nbsp;Full job description
+
+GCP Data Engineer
+Overview:
+
+   The GCP Data Engineer plays a crucial role in designing, implementing, and managing data processing systems leveraging Google Cloud Platform (GCP) services. This position is essential for ensuring efficient data management, processing, and analysis to support the organization's data-driven decision-making processes and solutions.
+  
+
+ Key Responsibilities:
+
+Design, develop, and deploy GCP-based data processing systems and solutions.
+Implement scalable and reliable data pipelines for ingesting, processing, and storing large volumes of data.
+Optimize data storage and retrieval processes using GCP storage solutions.
+Collaborate with data scientists and analysts to understand data requirements and implement appropriate solutions.
+Ensure data integrity, security, and compliance with regulatory requirements.
+Monitor and troubleshoot data processing systems to ensure optimal performance and reliability.
+Develop and maintain documentation for data engineering processes and systems.
+Implement data governance best practices for data quality, lineage, and metadata management.
+Assist in the evaluation and selection of appropriate GCP services for specific data processing needs.
+Stay updated with GCP developments and recommend innovative solutions to improve data engineering processes.
+
+
+ Required Qualifications:
+
+Bachelor's or master's degree in Computer Science, Data Engineering, or related field.
+Proven experience in designing and implementing data processing systems on Google Cloud Platform.
+Proficiency in programming languages such as Python, Java, or Scala for data processing and ETL (Extract, Transform, Load) tasks.
+Strong understanding of big data technologies and frameworks, including Hadoop, Spark, and Kafka.
+Experience with GCP services such as BigQuery, Dataflow, Pub/Sub, and Dataproc.
+Expertise in SQL and database technologies for data manipulation and querying.
+Ability to troubleshoot and optimize data processing workflows for performance and cost-efficiency.
+Excellent communication skills and the ability to collaborate in cross-functional teams.
+Understanding of data governance principles and best practices.
+Familiarity with machine learning pipelines and model serving on GCP is a plus.
+Certifications in GCP data engineering or related areas are preferred.
+
+
+
+
+Workplace Type
+
+    In-Office
+   
+
+
+Employment Type
+
+    Contract
+   
+
+
+Experience Level
+
+    Mid-Senior-Level
+   
+
+
+Hourly Compensation USD 49 - 57
+  
+
+Work Experience (years)
+
+    7 - 9 years
+   
+
+
+Education
+
+    Bachelor's Degree
+   
+
+
+Skills
+
+Hadoop
+Sql
+Big Data Technologies
+Machine Learning Pipelines
+Etl
+Java
+Spark
+Data Engineering
+Model Serving
+Gcp
+Kafka
+Big Data
+Data Governance
+Database Technologies
+Scala
+Python
+
+
+
+&nbsp;",https://www.indeed.com/rc/clk?jk=228a2253e3695526&bb=lAV9KnaaUJfqMj6UrHPAodGdDnsj2X4Lgj7iZHL55PQ-Au1TNVEmLXFwasYkdydUvW_8GDdetuUD_9C1xDEbEHKF4yfscNsZVM2Iz6uhPsVmqDQdkMgjSpHQrPahx_2n&xkcb=SoBl67M378XDCf2M3h0DbzkdCdPP&fccid=6edbc378a34e52a5&vjs=3
+Senior Big Data Developer (Only W2/1099),R2P Innovations/Pegasus Steel,"R2P Innovations/Pegasus Steel in Columbus, OH 43207",Up to $65 an hour -  Contract,"Profile insightsFind out how your skills align with the job descriptionSkillsDo you have experience in Spark?YesNo&nbsp;Job detailsHere’s how the job details align with your profile.PayUp to $65 an hourJob typeContractShift and schedule8 hour shift&nbsp;LocationR2P Innovations/Pegasus Steel in Columbus, OH 43207&nbsp;Full job descriptionDescription:
+
+Looking for a Sr Software Engineer skilled in the conversion of Cascading/MapReduce to Spark.
+This individual will be responsible for migrating Big Data workloads to Kubernetes/Spark 3.
+This will lead to the conversion of Cascading/MapReduce to Spark 3.
+Will be touching the code daily within the IntelliJ IDE...doing Scala code reviews, making coding changes needed for the Scala/Spark upgrade, designing the new Kubernetes environment, etc.
+
+Job Type: Contract
+Pay: Up to $65.00 per hour
+Expected hours: 8 per week
+Schedule:
+
+8 hour shift
+
+Experience:
+
+Spark 3: 3 years (Required)
+Big data: 8 years (Required)
+
+Work Location: In person&nbsp;",https://www.indeed.com/rc/clk?jk=2620dce9a0469176&bb=lAV9KnaaUJfqMj6UrHPAoWTJ_LngkLIEhi6BseCIKHqlh4C68gVFOIYm9RbmhYf0wURZWNTcctkzzBFV_5vZvbjWC2fdPKP_D9tb-TGTAOcENGGKk44AP5DT0sHuHFIC&xkcb=SoDR67M378XDCf2M3h0CbzkdCdPP&fccid=b9a9a576ffed959e&cmp=Vanator&ti=Senior+Developer&vjs=3
+Lead Data Engineer (Bank Tech),Capital One,"Richmond, VA 23218",Full-time,"Profile insightsFind out how your skills align with the job descriptionSkillsDo you have experience in UNIX?YesNoEducationDo you have a Bachelor's degree?YesNo&nbsp;Job detailsHere’s how the job details align with your profile.Job typeFull-time&nbsp;BenefitsPulled from the full job descriptionHealth insurance&nbsp;Full job description
+ 802 Delaware Avenue (18052), United States of America, Wilmington, Delaware
+  Lead Data Engineer (Bank Tech)
+ 
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Data Engineers who are passionate about marrying data with emerging technologies. As a Capital One Lead Data Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+
+ What You’ll Do:
+
+Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies
+Work with a team of developers with deep experience in machine learning, distributed microservices, and full stack systems
+Utilize programming languages like Java, Scala, Python and Open Source RDBMS and NoSQL databases and Cloud based data warehousing services such as Redshift and Snowflake
+Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, and mentoring other members of the engineering community
+Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+Perform unit tests and conduct reviews with other team members to make sure your code is rigorously designed, elegantly coded, and effectively tuned for performance
+
+
+ Basic Qualifications:
+
+Bachelor’s Degree
+At least 4 years of experience in application development (Internship experience does not apply)
+At least 2 years of experience in big data technologies
+At least 1 year experience with cloud computing (AWS, Microsoft Azure, Google Cloud)
+
+
+ Preferred Qualifications:
+
+7+ years of experience in application development including Python, SQL, Scala, or Java
+4+ years of experience with a public cloud (AWS, Microsoft Azure, Google Cloud)
+4+ years experience with Distributed data/computing tools (MapReduce, Hadoop, Hive, EMR, Kafka, Spark, Gurobi, or MySQL)
+4+ year experience working on real-time data and streaming applications
+4+ years of experience with NoSQL implementation (Mongo, Cassandra)
+4+ years of data warehousing experience (Redshift or Snowflake)
+4+ years of experience with UNIX/Linux including basic commands and shell scripting
+2+ years of experience with Agile engineering practices
+
+
+ At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, or another type of work authorization).
+
+Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.
+ This role is expected to accept applications for a minimum of 5 business days.
+  No agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+ 
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).
+&nbsp;",https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0C3j_zLGvpMLCdiZ0WC46XqVTA1VMZzOzKXPhAXwYlrNUFMD4PZ3AunGrII_Xzx8fHUM6ma1Oskd13mUhTiZYkeq0oF1DW1_lz7QgTpLKGjuX4V-5riVccOn1nrdskqs2EbXJcCkANWtwhVK9YHu3PrMDfjfl_AJPqSka1UsBHn3ayzQ-CAq8orI0D7WLFLFVAzXu0weWaRoXl95sVoXAwf03uEuzMCH6ccebJSFzYKpFRmgVEprj8UdXm8Ykc8Bzj7lhtQa1BPX1T_S-eMZK9tOg8W-FcxUFROpTIcDdlWWNrwDyVigxHBtIiHmIsBmB73W0ysNYht93XDZfhebzT-Nx58GLBoEu9W-I6Rvt4z5hGbB3tk9mFE7MYGWhbgYy1_Q3OXoM_rV1aMx5BDPJh8wX_QvSoCFIO_lcE8RF80V-pNhiRdM04oUEzbjOmr_S3LRt2QxRkn8Kqd2QJ6tVYun_gPCK5kbwOJLHa6vGu1eaVUz8cOdavOXLexx36giTT3EcMKEBr_X30eu8MU_g2NK6QiR1H9GGbQ_uQy6JLzyl8oEEOdtdn2w9xk_KA6px9agvOb9cBuwGkC7f6_lH0U6ncpz-5RLXDARcvGWXuhW_ymQu7synofqdjco7Z1Q23TuiXgzVREl6Q1vbwPJST0yVF3y9o1pYydYrLAViqbESQtcnKBOxPKMlzye70yTsVS4dVy-4WRWIH3FGXcOI2NENIKYkI-Pnc5ll0EVagP8BJRBVoi8_YM8-KFIpKTA7OqOhLe4GCc1GkdCq1u4ar4Yscrm4mlRpTZs06vBI7pnwj_nT2H5CDh&xkcb=SoC46_M378XDCf2M3h0BbzkdCdPP&camk=4HOcmqOLYrAY9i7xfdbs4A==&p=10&fvj=0&vjs=3
+Data Engineer,Inabia Software & Consulting Inc.,"McKinney, TX",$45 an hour,"Profile insightsFind out how your skills align with the job descriptionSkillsDo you have experience in SQL?YesNo&nbsp;Job detailsHere’s how the job details align with your profile.Pay$45 an hour&nbsp;LocationMcKinney, TX&nbsp;Full job descriptionJob Title: Data Engineer Location: McKinney, TX (Hybrid)(need only locals) Duration: 12+ months Rate $45/hr on c2c. Need 10 plus years candidate.  Job Description: At least 5 yrs. of experience in Data Engineering and Big data Strong knowledge in SQL Expertise in Redshift and AWS Experience in Python  Y9Zedv4m8R&nbsp;",https://www.indeed.com/rc/clk?jk=5d2fde3f4626d8ef&bb=lAV9KnaaUJfqMj6UrHPAocVZENac-5h1s0D53pC427MHZXz0GEUjIMl9OrODyQ_FZMgG42R9o7nkBmPYM6QJCSujJUOgjVDV7qF8ae1uck_qBcpukXuXnUfwl5F5vhDX&xkcb=SoD467M378XDCf2M3h0AbzkdCdPP&fccid=52c45942155a7ffc&vjs=3
+Data Architect / Data Modeler (remote),Columbia Sportswear Company,"Salem, OR",Full-time,"Profile insightsFind out how your skills align with the job descriptionSkillsDo you have experience in SQL?YesNo&nbsp;Job detailsHere’s how the job details align with your profile.Job typeFull-time&nbsp;LocationSalem, OR&nbsp;BenefitsPulled from the full job description401(k) matchingDental insuranceEmployee assistance programEmployee discountFlexible spending accountHealth insuranceHealth savings accountShow morechevron down&nbsp;Full job description
+
+  This is a remote position that may require you to come onsite occasionally to collaborate with other teams.
+ 
+
+
+  ABOUT THE POSITION
+ 
+
+  As the Principal Data Architect, you will own the data model/schema in support of CSC's analytics initiatives. In this role, you will be the owner of the Data & Analytics data assets. You will determine appropriate modeling standards and develop processes to ensure compliance with these patterns. The responsibility of this role will span components in Azure Data Lake, Azure Synapse Data Warehouse, and Azure Analysis Services.
+ 
+
+
+  HOW YOU WILL MAKE A DIFFERENCE
+ 
+
+Work closely with delivery teams and subject matter experts to deliver data warehousing solutions that are reliable, flexible, scalable, and provide low-cost ownership.
+Participate in the design, development, documentation, and application of best practices and procedures that govern the implementation of data assets.
+Roadmap new analytic capabilities and technologies to be evolved and adopted.
+Partner with Enterprise Architecture on enterprise strategy
+Provide technical mentoring, guidance, and training to Data and Analytic engineering resources.
+
+
+ YOU ARE
+ 
+
+Able to envision a strategy, communicate and promote, and then dive in to help others achieve the vision
+An excellent communicator that can document and present complex technical information in a clear and concise manner to a variety of audiences
+Highly structured with the ability to organize others around you
+A creative thought leader that is consultative in their approach
+
+
+
+  YOU HAVE
+ 
+
+5+ years of experience delivering data centric solutions on warehousing, big data, and cloud platforms
+3+ years of experience design and tuning a MPP environment
+3+ years of experience with an Enterprise Reporting Suite (preferred PowerBI, Analysis Services)
+Expert SQL and query optimization techniques
+Expert data modeling techniques
+
+
+ #LI-JD1
+ 
+
+
+ This job description is not meant to be an all-inclusive list of duties and responsibilities, but constitutes a general definition of the position's scope and function in the company.
+
+ Columbia Sportswear is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics. The Know Your Rights poster is available here: https://www.eeoc.gov/poster The pay transparency policy is available here: https://www.dol.gov/sites/dolgov/files/OFCCP/pdf/pay-transp_%20English_formattedESQA508c.pdf Columbia Sportswear is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please notify your recruiter.
+  At Columbia Sportswear Company, we’re proud to offer regular full-time employees a benefits package that includes a variety of services and products to help make your life and work more rewarding. Our benefit programs contribute to overall employee well-being by aligning those programs with the fundamental elements of well-being: physical, social/emotional, financial, career and community. Benefits that can protect your family’s financial future and help you save money through our 401k plan plus a generous company match. Columbia offers medical, dental, vision, life Insurance, disability, flexible spending accounts, health savings account, and an assortment of voluntary benefit offerings (accident, critical illness, hospital indemnity, and legal services). In addition, Columbia offers EAP + which is free and confidential 24/7/365 counseling services. We have extensive wellness benefits, employee discounts and a generous time off program available.
+  If you need an accommodation/adjustment to successfully complete and submit your application, please reach out to AskHR@columbia.com with the Subject: Applicant Assistance Requested.
+&nbsp;",https://www.indeed.com/rc/clk?jk=b1db38a92857c52c&bb=lAV9KnaaUJfqMj6UrHPAoYvZUQ3FVtInuTFTNMcCQ6hbfGqRFIaLVmPYhrTpeRdkFe1aUBBbztasmiHGLrmhL9sXfmDeivr3Xj_fM-X_7RDfT-YocbTdcclBjiOq97Ii&xkcb=SoB267M378XDCf2M3h0HbzkdCdPP&fccid=e87d9cecd33775c9&vjs=3
+SQL/SSIS Developer,Connvertex Technologies,"Connvertex Technologies in Charlotte, NC 28202",$60 - $70 an hour -  Contract,"Profile insightsFind out how your skills align with the job descriptionSkillsDo you have experience in Teradata?YesNo&nbsp;Job detailsHere’s how the job details align with your profile.Pay$60 - $70 an hourJob typeContractShift and schedule8 hour shift&nbsp;Full job descriptionRole- SQL SSIS Expert
+Location- Charlotte, North Carolina (Hybrid role)
+Skills: SQL-SSIS with ETL & Bigdata
+Job Description- 
+
+At least four (4) years of that experience must have been in a lead capacity.
+Proficiency in ETL tools like Azure Data Factory, Azure Synapse, or Microsoft SSIS (SQL Server Integration Services) to extract data from various sources, transform it to fit the target schema, and load it into the data warehouse.
+Ability to design and implement data warehouse data models, including star schema, snowflake schema, and dimension hierarchies for optimized data retrieval and analysis.
+Proficient in scripting languages like Python, Perl, or Shell scripting for automating ETL processes and data manipulation
+3 years of experience in the past 4 years in working with SQL database architecture, data modeling, normalization, and performance optimization.
+3 years of experience in the past 4 years in working with Microsoft Azure Cloud platform, including familiarity with other Azure services like Azure Data Lake Storage, Azure Databricks, Azure Data Factory, and Azure DevOps.
+3 years of experience in the past 4 years in working with designing and developing data warehouses using other platforms like Microsoft SQL Server, Oracle, or Teradata
+3 years of experience in the past 4 years in working with years of experience in big data technologies such as Apache Hadoop, Apache Spark, or Apache Kafka
+3 years of experience in the past 4 years in working with data visualization tools like Power BI to create insightful visualizations and reports based on data stored in Synapse Data Warehouse.
+3 years of experience in the past 4 years in working with data cleansing, data profiling, and data validation techniques to ensure high data integrity in the data warehouse.
+
+Job Type: Contract
+Pay: $60.00 - $70.00 per hour
+Expected hours: 40 per week
+Schedule:
+
+8 hour shift
+
+Application Question(s):
+
+Its a W2 Role
+
+Experience:
+
+IT: 8 years (Required)
+SQL: 4 years (Preferred)
+SSIS: 3 years (Preferred)
+ETL: 1 year (Preferred)
+Big data: 1 year (Preferred)
+
+Work Location: In person&nbsp;",https://www.indeed.com/rc/clk?jk=eca600eac0a1b3d4&bb=lAV9KnaaUJfqMj6UrHPAodAYNChp8pCYX4iKu5AZ_gzCJtggOfNtr6lvrEtjY_Cf9Lt4-65jBV8HpliJ7kiNU0Bvx-bMCJDcPbnvizoVLm7sdxweeDuO0WO-Ve9vnq7J&xkcb=SoDC67M378XDCf2M3h0GbzkdCdPP&fccid=5fab942519357bb3&cmp=Connvertex-Technologies&ti=SQL+Developer&vjs=3
+Big Data Engineer,CEDENT,"Alpharetta, GA",Full-time,"Profile insightsFind out how your skills align with the job descriptionSkillsDo you have experience in Windows?YesNoEducationDo you have a Bachelor's degree?YesNo&nbsp;Job detailsHere’s how the job details align with your profile.Job typeFull-time&nbsp;LocationAlpharetta, GA&nbsp;BenefitsPulled from the full job descriptionOn-the-job training&nbsp;Full job description
+Title:: Big Data Engineer @ Alpharetta, GA : Terms of Hire: Full Time. Salary:: $ Open / yr + Benefits.:  Job description:
+
+
+Develops moderately complex code using both front and/or back end programming languages within multiple platforms as needed in collaboration with business and technology teams for internal and external client software solutions. Designs, creates, and delivers moderately complex program specifications for code development and support on multiple projects/issues with a wide understanding of the application / database to better align interactions and technologies.
+
+
+Provides broad and in-depth knowledge of analysis, modification, and development of complex code/unit testing in order to develop concise application documentation. Performs and advises on testing, validation requirements, and corrective measures for complex code deficiencies and provides systemic proposals.
+
+
+Participates in client facing meetings, joint venture discussions, vendor partnership teams to determine solution approaches.
+
+
+Provides advise to leadership on the design, development and enforcement of business / infrastructure application standards to include associated controls, procedures and monitoring to ensure compliance and accuracy of data. Applies a full understanding and in-depth knowledge of procedures, methodology and application standards to include Payment Card Industry (PCI) security compliance.
+
+
+Develops, administers and recommends billable hours and resource estimates on complex initiatives, projects, and issues.
+
+
+Assists with on-the-job training and provides in-depth expertise and advice to software engineers.
+
+What Are We Looking For in This Role?: Minimum Qualifications 
+ 
+
+BS in Computer Science, Information Technology, Business / Management Information Systems or related field
+
+- Typically minimum of 6 years - Professional Experience In Coding, Designing, Developing And Analyzing Data. Typically has an advanced knowledge and use of two or more opposing front / back end languages / technologies from the following but not limited to; two or more modern programming languages used in the enterprise, experience working with various APIs, external Services, experience with both relational and NoSQL Databases
+Preferred Qualifications 
+ 
+
+BS in Computer Science, Information Technology, Business / Management Information Systems or related field
+
+
+8+ years professional Experience In Coding, Designing, Developing And Analyzing Data and experience with IBM Rational Tools
+
+What Are Our Desired Skills and Capabilities?:
+
+- Skills / Knowledge - Having wide-ranging experience, uses professional concepts and company objectives to resolve complex issues in creative and effective ways. Some barriers to entry exist at this level (e.g., dept./peer review).
+- Job Complexity - Works on complex issues where analysis of situations or data requires an in-depth evaluation of variable factors. Exercises judgment in selecting methods, techniques and evaluation criteria for obtaining results. Networks with key contacts outside own area of expertise.
+- Supervision - Determines methods and procedures on new assignments and may coordinate activities of other personnel (Team Lead).
+Operating Systems: 
+ 
+
+Linux distributions including one or more for the following: Ubuntu, CentOS/RHEL, Amazon Linux
+
+
+Microsoft Windows
+
+
+z/OS
+
+
+Tandem/HP-Nonstop
+
+What are the 3-4 non-negotiable requirements of this position?:
+
+
+What are the 3-4 non-negotiable requirements of this position?:
+ - Oracle / PL/SQL 
+  -must be strong in this area Senior level or Lead level ONLY
+  You Will Enjoy: 
+ 
+
+An opportunity to be a part of a great culture, an awesome team, a challenging work environment, and some fun along the way!
+
+
+Apply today to learn more and be part of our Growth story.
+
+All applications will be kept strictly confidential and once shortlisted, our team will be in touch with you for further discussions.
+&nbsp;",https://www.indeed.com/rc/clk?jk=37b39be76f4758a3&bb=lAV9KnaaUJfqMj6UrHPAoTnGZa9nY3DpMWi_YSfRFnjBFAOGq4OfXMTo1Emzxu_xLxJR13t5pfvlPvbQCstpUrYWdnTyWK9J7ncfVgtysfB6ojH1BvbWRTZmRfr4GcWw&xkcb=SoBf67M378XDCf2M3h0FbzkdCdPP&fccid=2ecf4575019bf07a&vjs=3

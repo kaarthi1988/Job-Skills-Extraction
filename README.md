@@ -133,4 +133,4 @@ This project is intended for personal use and educational purposes. It is not in
 
 ## Contact
 
-For any questions, suggestions, or collaborations, please feel free to open an issue or contact me directly at [your-email@example.com].
+For any questions, suggestions, or collaborations, please feel free to open an issue or contact me directly at pradeepakaarthi@gmail.com.

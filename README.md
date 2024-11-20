@@ -94,6 +94,8 @@ A **Named Entity Recognition (NER)** model was developed using **SpaCy** to extr
 - **RESPONSIBILITY**
 - **CERTIFICATE**
 - **SALARY**
+  ![image](https://github.com/user-attachments/assets/ee7413d0-ca0c-4a6b-8bbf-88ef485747a9)
+
 
 ### Future Improvements:
 - **Annotation of More Data**: The current model can be further improved by annotating more job descriptions. As more annotated data is added, the model’s accuracy can be enhanced, leading to more reliable entity extraction.
@@ -112,6 +114,10 @@ The analysis examines data such as:
 - **Technologies**
 - **Soft Skills**
 - **Salary**
+  ![image](https://github.com/user-attachments/assets/69f689d0-4922-452d-9368-63e863329ecc)
+  ![image](https://github.com/user-attachments/assets/b60de9a1-c000-4d30-ab2f-e7d2c47357c7)
+
+
 
 By analyzing job postings, the project identifies the most common skills and technologies required by employers. It helps understand the skills gap in the job market, making it easier for job seekers to upskill and for educational institutions to adjust their curricula to meet industry needs.
 
